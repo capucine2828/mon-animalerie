@@ -1,0 +1,51 @@
+h1 a {
+    color: #FFFFFF;
+}
+
+.page-header {
+    background-color: #1f52de;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header_detail {
+    background-color: #ee0d0d;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+body {
+    background-color: #f0f3c7;
+    ;
+}
+
+c {
+    margin-left:180px;
+    color: #b32929;
+}
+
+#col {
+    column-count: 2;
+  }
+
+#Animaux  {
+    float:left;
+    width:600px;
+    background-color:#d8883e;
+}
+
+#Equipements {
+    margin-left:605px;
+    background-color:#9f5ff3;
+}
+
+h2 a, b {
+    margin-left:50px;
+}
+
+#pied_de_page {
+    background-color:#f0f3c7;
+    height:100px;
+    text-align:center;
+    clear:both;
+    }

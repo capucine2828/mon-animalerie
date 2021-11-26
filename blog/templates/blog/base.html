@@ -1,0 +1,29 @@
+{% load static %}
+<html>
+    <head>
+        <title>TA Info2 - Capucine Monfront</title>
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="{% static 'css/blog5.css' %}">
+        
+    </head>
+    <body>
+        <div class="page-header">
+            <h1><a href="/">Bienvenue &agrave; l'animalerie de Capucine !</a></h1>
+        </div>
+
+
+        <div class="content container">
+            <div class="col-sm">
+                {% block content %}
+                {% endblock %}
+            </div>
+        </div>
+
+
+        <div id="pied_de_page">
+            <br><br><br>
+            Travail en autonomie - Capucine Monfront
+        </div>
+    </body>
+</html>

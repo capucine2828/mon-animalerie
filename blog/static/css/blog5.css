@@ -1,0 +1,85 @@
+/*En tête principale : couleur de l'écriture et fond*/
+h1 a {
+    color: #FFFFFF;
+}
+
+.page-header {
+    background-color: #1f52de;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+/*Fond principal*/
+body {
+    background-color: #f0f3c7;
+}
+
+
+
+/*Division en deux colonnes*/
+#col {
+    column-count: 2;
+  }
+
+#Animaux  {
+    float:left;
+    width:565px;
+    background-color:#d8883e;
+    padding-top: 5px;
+    border-radius:30px;
+}
+
+#Equipements {
+    margin-left:575px;
+    background-color:#9f5ff3;
+    padding-top: 5px;
+    border-radius:30px;
+}
+
+
+/*Pied de page*/
+#pied_de_page {
+    background-color:#f0f3c7;
+    height:100px;
+    text-align:center;
+    clear:both;
+    }
+
+
+
+
+
+
+
+
+
+
+/*Page détails animal*/
+.page-header_detail {
+    background-color: #ee0d0d;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+
+
+
+
+
+
+
+h2, b, h6 {
+    margin-left:50px;
+}
+
+h2 a, h3 b {
+    font-size: 30;
+}
+
+h2 a {
+    font-size: 20;
+}
+
+#rectangle {
+    background-color: #666060;
+}

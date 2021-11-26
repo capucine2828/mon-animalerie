@@ -1,0 +1,28 @@
+h1 a {
+    color: #FFFFFF;
+}
+
+.page-header {
+    background-color: #1f52de;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header_detail {
+    background-color: #de1f1f;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+body {
+    background-color: #f0f3c7;
+    ;
+}
+
+c {
+    color: #b32929;
+}
+
+#col {
+    column-count: 2;
+  }
